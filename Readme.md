@@ -3,7 +3,7 @@
 [Visit Now](https://github.com/code-bajju/mmdu-OOPS-assignment.git) 🚀
 
 [![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://github.com/code-bajju//mmdu-OOPS-assignment.git)&nbsp;
-[![repo-size](https://img.shields.io/github/repo-size/code-bajju/mmdu-OOPS-assignment.git)](https://github.com/code-bajju//mmdu-OOPS-assignment.git)
+[![repo-size](https://img.shields.io/github/repo-size/code-bajju/mmdu-OOPS-assignment)](https://github.com/code-bajju//mmdu-OOPS-assignment)
 
 ## Overview
 
