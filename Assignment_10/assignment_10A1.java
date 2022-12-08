@@ -56,6 +56,7 @@ System.out.println("Successfully Appended to the file");
 catch (IOException i) {
 i.printStackTrace();
 }
+
 // case '4':
 // try
 //         {
